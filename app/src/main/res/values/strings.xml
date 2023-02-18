@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="title_app">Recipes</string>
+    <string name="recipes_image">Recipes image</string>
+    <string name="loading">Loading...</string>
+    <string name="try_again">Please try again</string>
+    <string name="view_map">ver Mapa</string>
+    <string name="information_label">Description:</string>
+    <string name="close_icon">Close</string>
+    <string name="search_here_placeholder">Search here...</string>
+    <string name="search_icon">Search</string>
+    <string name="clear_text">Clear text</string>
+    <string name="episodes_label">Episodes</string>
+    <string name="error">Ups! Something just happened.</string>
+</resources>
